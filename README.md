@@ -54,26 +54,6 @@ This is a fully automated inventory management system built in **Microsoft Excel
 
 ---
 
-## 🔧 Requirements
 
-- Microsoft Excel 2016 or newer
-- Enable Macros (if you extend with VBA)
-- Pivot Table auto-refresh if configured with macros/scripts
 
----
-
-## 🧑‍💻 Author
-
-**Nikhil Garse**  
-Location: Nashville, TN  
-GitHub: [https://github.com/NIKHILG15]
-
----
-
-## 📄 License
-
-This project is open-source and available for educational and personal use.  
-Feel free to customize or enhance it for your own inventory system needs.
-
----
 
