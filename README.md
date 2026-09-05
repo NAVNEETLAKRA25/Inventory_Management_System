@@ -1,4 +1,4 @@
-# 📊 Automated Inventory Management System in Excel
+# 📊 Inventory Management System in Excel
 
 This is a fully automated inventory management system built in **Microsoft Excel**, featuring:
 - Customer, Product, Vendor, Sales & Purchase Tracking
